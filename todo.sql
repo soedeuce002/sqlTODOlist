@@ -13,4 +13,4 @@ select priority from todos where priority > 1;
 
 update todos, 2 set completed = 2017-08-01;
 
-delete * from todos where completed != null;
+delete * from todos where completed != null;l
